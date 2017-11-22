@@ -101,6 +101,13 @@ ENV/
 .mypy_cache/
 .idea/misc.xml
 .idea/modules.xml
-.idea/python-study.iml
 .idea/vcs.xml
 .idea/workspace.xml
+.idea/dictionaries/z003v1ea.xml
+
+# IntelliJ IDEA Files
+
+*.iml
+*.ipr
+*.iws
+*.idea
