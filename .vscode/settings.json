@@ -1,0 +1,4 @@
+{
+    // Whether to lint Python files using pylint.
+    "python.linting.pylintEnabled": false
+}
