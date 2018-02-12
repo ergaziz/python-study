@@ -63,3 +63,18 @@ def swap():
 
 def contains(items, item):
     return item in items  # this works for collections, tuples also. "not in" also works.
+
+
+# Summary of Collections
+# Tuples are immutable sequence types.
+# tuple create : Just optional parenthesis around a comma seperated list.
+# tuple unpacking : return multiple values. used for swap
+# strings are immutable sequence
+# best concat is join() for empty seperator
+# partition() is useful parsing tool
+# format() is useful as well
+# ranges are arithmetic progressions
+# enumerate() is superior alternative to range()
+# lists are heterogenous mutable sequence types
+# dictionaries : maps immutable keys to mytable values
+# set : unordered collection of unique elements
