@@ -51,3 +51,25 @@ def append39(list_to_append):
 def override_list(list_to_override):
     list_to_override = [5, 6, 7]
     print(list_to_override)
+
+
+# Summary of Objects
+# think of named references to object, not variables.
+# garbage collectore rexlaims unreachable pbjects
+# id() returns unique constant identifier of object
+# is operator checks id()
+# test for equivalance is ==
+# function args passed by object reference, not value
+# return also passes by object reference.
+# function args with deafult is evaluated once, when def is executed.
+# dynamic typing : we dont specify types
+# strong typing : types are not converted to match
+# LEGB rule in scoping
+# global keyword
+# everything is an object
+# import and def result in binding to a named references to module or function
+# type can be used to determine the type of an object
+# dir() can be used to introspect an object and get its attributes
+# name , doc attributes
+# len()
+# multiply string with integer
